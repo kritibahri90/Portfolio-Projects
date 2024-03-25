@@ -1,3 +1,3 @@
 # Portfolio-Projects
 <br>
-1. MYSQL Projects
+1. MYSQL Projects (Walmart Project)
